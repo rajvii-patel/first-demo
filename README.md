@@ -1,3 +1,4 @@
 # first-demo
-This is a first git repository
-Author - rajvi
+This is a First Git Repository.
+<br>
+Author - Rajvi Patel
